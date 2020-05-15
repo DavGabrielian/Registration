@@ -57,7 +57,7 @@ if(empty($_SESSION['error']))
 
 } else {
      
-    header("Location: index.php");
+    header("Location: register.php");
     
 }
 
